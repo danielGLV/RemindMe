@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:orderInCategory="1"
+        android:title="@string/menu_item_autoschool"
+        android:icon="@mipmap/ic_brightness_auto"
+        />
+
+    <item
+        android:orderInCategory="1"
+        android:title="@string/menu_item_akadem"
+        android:icon="@mipmap/ic_home_outline"
+        />
+
+</menu>
